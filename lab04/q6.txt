@@ -1,0 +1,69 @@
+Server:		172.16.2.249
+Address:	172.16.2.249#53
+
+Non-authoritative answer:
+8.8.8.8.in-addr.arpa	name = dns.google.
+
+Authoritative answers can be found from:
+.	nameserver = h.root-servers.net.
+.	nameserver = g.root-servers.net.
+.	nameserver = m.root-servers.net.
+.	nameserver = c.root-servers.net.
+.	nameserver = f.root-servers.net.
+.	nameserver = e.root-servers.net.
+.	nameserver = i.root-servers.net.
+.	nameserver = d.root-servers.net.
+.	nameserver = b.root-servers.net.
+.	nameserver = k.root-servers.net.
+.	nameserver = j.root-servers.net.
+.	nameserver = a.root-servers.net.
+.	nameserver = l.root-servers.net.
+a.root-servers.net	internet address = 198.41.0.4
+
+Server:		172.16.2.249
+Address:	172.16.2.249#53
+
+Non-authoritative answer:
+9.9.9.9.in-addr.arpa	name = dns9.quad9.net.
+
+Authoritative answers can be found from:
+.	nameserver = b.root-servers.net.
+.	nameserver = h.root-servers.net.
+.	nameserver = a.root-servers.net.
+.	nameserver = e.root-servers.net.
+.	nameserver = m.root-servers.net.
+.	nameserver = f.root-servers.net.
+.	nameserver = g.root-servers.net.
+.	nameserver = c.root-servers.net.
+.	nameserver = l.root-servers.net.
+.	nameserver = k.root-servers.net.
+.	nameserver = d.root-servers.net.
+.	nameserver = i.root-servers.net.
+.	nameserver = j.root-servers.net.
+a.root-servers.net	internet address = 198.41.0.4
+
+Server:		172.16.2.249
+Address:	172.16.2.249#53
+
+Non-authoritative answer:
+222.222.67.208.in-addr.arpa	name = dns.opendns.com.
+222.222.67.208.in-addr.arpa	name = dns.umbrella.com.
+222.222.67.208.in-addr.arpa	name = resolver1.opendns.com.
+222.222.67.208.in-addr.arpa	name = dns.sse.cisco.com.
+
+Authoritative answers can be found from:
+.	nameserver = h.root-servers.net.
+.	nameserver = l.root-servers.net.
+.	nameserver = c.root-servers.net.
+.	nameserver = j.root-servers.net.
+.	nameserver = d.root-servers.net.
+.	nameserver = m.root-servers.net.
+.	nameserver = a.root-servers.net.
+.	nameserver = i.root-servers.net.
+.	nameserver = e.root-servers.net.
+.	nameserver = f.root-servers.net.
+.	nameserver = k.root-servers.net.
+.	nameserver = b.root-servers.net.
+.	nameserver = g.root-servers.net.
+a.root-servers.net	internet address = 198.41.0.4
+

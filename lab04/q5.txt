@@ -1,0 +1,5 @@
+18:39:00.203678 IP (tos 0x0, ttl 64, id 1452, offset 0, flags [none], proto UDP (17), length 58)
+    10.14.10.158.64318 > 172.16.2.249.53: [udp sum ok] 31436+ NS? facebook.com. (30)
+18:39:00.207691 IP (tos 0x0, ttl 61, id 15187, offset 0, flags [none], proto UDP (17), length 189)
+    172.16.2.249.53 > 10.14.10.158.64318: [udp sum ok] 31436 q: NS? facebook.com. 4/0/4 facebook.com. [17m34s] NS d.ns.facebook.com., facebook.com. [17m34s] NS a.ns.facebook.com., facebook.com. [17m34s] NS b.ns.facebook.com., facebook.com. [17m34s] NS c.ns.facebook.com. ar: c.ns.facebook.com. [17m39s] A 185.89.218.12, d.ns.facebook.com. [17m39s] A 185.89.219.12, a.ns.facebook.com. [17m39s] A 129.134.30.12, b.ns.facebook.com. [17m39s] A 129.134.31.12 (161)
+
